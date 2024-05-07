@@ -1,8 +1,10 @@
-# React + Vite
+# 3D Portfolio with React and three-fiber
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Jangan lupa setelah clone repository nya silahkan running di terminal code berikut:
 
-Currently, two official plugins are available:
+```json
+npm install
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Silahkan ganti isi semua text template pada section about dan projects
+- Silahkan ganti juga pada file constants.js sesuai data diri masing masing
